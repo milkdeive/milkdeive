@@ -8,9 +8,9 @@
 
 </div>
 
-<h3>Sobre mim</h3>
-
 <img align="right" src="./assets/chlomaki.jpg" width="150" alt="Chlomaki" style="margin-left: 20px;">
+
+<h3>Sobre mim</h3>
 
 Só um cara tentando aprender a programar e talvez fazendo alguns projetos por aí.
 

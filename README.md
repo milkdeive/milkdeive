@@ -10,7 +10,7 @@
 
 <h3>Sobre mim</h3>
 
-<img align="right" src="./assets/chlomaki.jpg" width="150" alt="Minha personagem" style="margin-left: 20px; margin-bottom: 20px;">
+<img align="right" src="./assets/chlomaki.jpg" width="150" alt="Minha personagem" style="margin-left: 20px; margin-bottom: 30px;">
 
 Só um cara tentando aprender a programar e talvez fazendo alguns projetos por aí.
 

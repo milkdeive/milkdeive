@@ -10,14 +10,14 @@
 
 <h3>Sobre mim</h3>
 
-<img align="right" src="./assets/chlomaki.jpg" width="150" alt="Minha personagem" style="margin-left: 20px; margin-bottom: 10px;">
+<img align="right" src="./assets/chlomaki.jpg" width="150" alt="Minha personagem" style="margin-left: 20px; margin-bottom: 20px;">
 
 Só um cara tentando aprender a programar e talvez fazendo alguns projetos por aí.
 
 <ul>
   <li>Curto jogar muito</li>
   <li>Estudando programação quando dá vontade</li>
-  <li>No Ensino Médio ainda, então meu QI ainda é zero</li>
+  <li>No Ensino Médio, então meu QI ainda é zero</li>
 </ul>
 
 <br clear="right">

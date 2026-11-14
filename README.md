@@ -35,7 +35,7 @@ Só um cara tentando aprender a programar e talvez fazendo alguns projetos por a
 
 </div>
 
-<h3>Meus projetos</h3>
+<h3>Projetos</h3>
 
 <table>
   <tr>
